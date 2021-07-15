@@ -27,3 +27,4 @@ There are 3 types of notations:
 ### Space Complexity:
 **Space Complexity** of an algorithm is total space taken by the algorithm with respect to the input size. It is directly proportional to the largest memory your program acquires at any instance during run time.
 For example: int consumes 4 bytes of memory.
+

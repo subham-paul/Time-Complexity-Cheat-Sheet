@@ -17,7 +17,7 @@
 
 
 ### Time Complexity:
-  **Time complexity** is the amount of time taken by an algorithm to run, as a function of the length of the input. It measures the time taken to execute each statement of code in an algorithm..
+  **Time complexity** is the amount of time taken by an algorithm to run, as a function of the length of the input. It measures the time taken to execute each statement of code in an algorithm.
   
 There are 3 types of notations:
 1.	Worst case = (Big O) notation

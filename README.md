@@ -1,7 +1,7 @@
 # Time Complexity & Space Complexity Cheat Sheet
 
 ## Time Complexity Cheat Sheet of all Searching and Sorting Algorithms
-| **Algorthim**    | **Best Time Complexity** | **Average Time Complexity** | **Worst Time Complexity** | **Worst Case Space Complexity** |
+| **Algorithm**    | **Best Time Complexity** | **Average Time Complexity** | **Worst Time Complexity** | **Worst Case Space Complexity** |
 | :--------------: | :------------------:| :---------------------: | :-------------------: | :--------------: |
 | **Linear Search** | O(1) | O(n) | O(n) | O(1) |
 | **Binary Search** | O(1) | O(log n) | O(log n) | O(1)|

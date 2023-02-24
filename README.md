@@ -17,14 +17,33 @@
 
 
 ### Time Complexity:
-  **Time complexity** is the amount of time taken by an algorithm to run, as a function of the length of the input. It measures the time taken to execute each statement of code in an algorithm.
+  **Time complexity** gives the 'idea' of the amount of the time taken by an algorithm as a function of the input size.
   
 There are 3 types of notations:
 1.	Worst case = (Big O) notation
 2.	Best case = (Big Omega) notation
 3.	Average case = (Big Theta) notation
 
-### Space Complexity:
-**Space Complexity** of an algorithm is total space taken by the algorithm with respect to the input size. It is directly proportional to the largest memory your program acquires at any instance during run time.
-For example: int consumes 4 bytes of memory.
+Example of Big O Notation **Higher** to **Lower Time Complexities**:
+* O(n!)  <Factorial Time>
+* O(2^n)
+* O(n^3)
+* O(n^2)
+* O(n log (n))
+* O(n)  <Linear Time>
+* O(log n)  <Binary Search Time>
+* O(1)  <Constant Time>
 
+
+### Space Complexity:
+**Space Complexity** gives the 'idea' of the amount of space required by a program with respect to the input.
+
+#### <ins>O(1) Space Complexity Examples-</ins>
+1. int a;
+2. int a, b, c, d;
+3. int arr[1000];
+
+
+#### <ins>O(n) Space Complexity Examples-</ins>
+1. int arr[n];  // Bad practice
+2. vector<int> arr(n);

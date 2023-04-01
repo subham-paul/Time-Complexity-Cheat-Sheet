@@ -25,14 +25,14 @@ There are 3 types of notations:
 3.	Average case = (Big Theta) notation
 
 Example of Big O Notation **Higher** to **Lower Time Complexities**:
-* O(n!)  <Factorial Time>
+* O(n!)  // Factorial Time
 * O(2^n)
 * O(n^3)
 * O(n^2)
 * O(n log (n))
-* O(n)  <Linear Time>
-* O(log n)  <Binary Search Time>
-* O(1)  <Constant Time>
+* O(n)  // Linear Time
+* O(log n)  // Binary Search Time
+* O(1)  // Constant Time
 
 
 ### Space Complexity:

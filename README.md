@@ -38,7 +38,7 @@ Example of Big O Notation **Higher** to **Lower Time Complexities**:
 ### Space Complexity:
 **Space Complexity** gives the 'idea' of the amount of **maximum space** required by a program with respect to the input.
 
-#### <ins>O(1) Space Complexity Examples-</ins>
+#### <ins>O(1) / Constant Space Complexity Examples-</ins>
 1. int a;
 2. int a, b, c, d;
 3. int arr[1000];
